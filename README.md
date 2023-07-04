@@ -1,5 +1,11 @@
-✨ Gerador de Senhas
+<h1>✨ Gerador de Senhas ✨</h1>
 
-Estudo basico sobre: JS, HTML E CSS
+<p>LIGUANGENS USADAS: </p>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JAVASCRIPT</li>
+</ul>
 
-Nesse Projeto mostra um exemplo de Gerador de senha automatizado com Js Basico ✨
+<h2>Nesse Projeto mostra um exemplo de Gerador de senha automatizado com Js Basico<h2/> 
+<img src="">
